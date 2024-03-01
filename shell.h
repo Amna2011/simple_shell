@@ -6,5 +6,5 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-
+int searchSubstring(const char *str, const char *substr);
 #endif
